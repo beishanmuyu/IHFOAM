@@ -17,6 +17,7 @@ git clone http://bitbucket.org/phicau/ihfoam_materials
 You can always get the latest version by:
 
 git checkout
+
 git pull
 
 ### Notes ###
