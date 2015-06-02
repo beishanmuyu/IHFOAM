@@ -22,9 +22,11 @@ git pull
 
 ### Notes ###
 
-Note that no OpenFOAM 2.3 tutorials are delivered. Find more information in the IHFOAM wiki:
+Note that OpenFOAM 2.3.0 and 2.4.0 tutorials are now delivered. However, problems with pressure calculations (not linked in any way to IHFOAM implementation) are experienced in these versions and no corrections are expected from the OpenFOAM developers: http://www.cfd-online.com/Forums/openfoam-bugs/139286-interfoam-pressure-miscalculation-2-3-wrt-previous-versions.html
+
+Find more information in the IHFOAM wiki:
 http://openfoamwiki.net/index.php/Contrib/IHFOAM
 
 ### Who do I talk to? ###
 
-* ihfoam@ihcantabria.com
+* https://openfoamwiki.net/index.php/Contrib/IHFOAM#Get_Connected
