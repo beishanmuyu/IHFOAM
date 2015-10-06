@@ -12,7 +12,7 @@ http://openfoamwiki.net/index.php/Contrib/IHFOAM#Source_Download_and_Compilation
 
 To get a copy of IHFOAM reference materials run in a terminal:
 
-git clone http://bitbucket.org/phicau/ihfoam_materials
+git clone https://bitbucket.org/IHFOAM/ihfoam_materials/
 
 You can always get the latest version by:
 
